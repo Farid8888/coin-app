@@ -9,6 +9,5 @@ left: 93.98%;
 right: -19.13%;
 top: 1.05%;
 bottom: 85.15%;
-
 background: #CF7310;
 `
